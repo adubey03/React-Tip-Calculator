@@ -1,0 +1,21 @@
+body{
+    background-color: lightgrey;
+}
+
+.table{
+    border: 1;
+    align-items: center;
+    margin-top: 50px;
+    
+    margin-left:40%;
+    
+
+}
+
+.footer{
+    background-color:black;
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+
